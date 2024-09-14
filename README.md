@@ -1,10 +1,10 @@
 # Integrating-Text-to-Text-AI-Pipelines-with-Gradio
-Using Gradio and Hugging Face pipelines specifically for text-summarization tasks.
+
 # Text Summarization
 
 ## Main Task
-Implement a Hugging Face model pipeline that works with text-to-text
-tasks
+Using Gradio and Hugging Face pipelines specifically for text-summarization tasks.
+
 
 ##  purpose of the project.
 
