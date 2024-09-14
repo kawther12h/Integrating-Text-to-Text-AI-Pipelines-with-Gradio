@@ -106,7 +106,7 @@ text = ' '.join([summ['summary_text'] for summ in res])
 
 ### Instructions on how to run the code
 * provide URL of webpage.
-* djust Minimum and Maximum Length of summarization.
+* Adjust Minimum and Maximum Length of summarization.
 * Send the requst.
 
 ## The expected output
