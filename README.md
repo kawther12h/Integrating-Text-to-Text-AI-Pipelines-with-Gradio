@@ -33,7 +33,7 @@ pipeline integrated with Gradio for summarizing webpage artical.
  pipeline("summarization", model="facebook/bart-large-cnn")
 ``` 
 
-* Get the webpage from URL and extract the text content of the webpage. Find all <<h1>> and <<p>> in webpage then stores them in list. Finally, joins all the extracted text into a single string.
+* Get the webpage from URL and extract the text content of the webpage. Find all h1 ,h2 and p tags in webpage then stores them in list. Finally, joins all the extracted text into a single string.
 ```python
 URL = "https://hackernoon.com/will-the-game-stop-with-gamestop-or-is-this-just-the-beginning-2j1x32aa"
 
@@ -44,7 +44,7 @@ r = requests.get(URL)
 soup = BeautifulSoup(r.text, 'html.parser')
 
 # To finds all the <h1> (header) and <p> (paragraph) elements in the HTML content
-results = soup.find_all(['h1', 'p'])
+results = soup.find_all(['h1','h2' ,'p'])
 
 # Extract the text content from each element and store it in a list called text
 text = [result.text for result in results]
