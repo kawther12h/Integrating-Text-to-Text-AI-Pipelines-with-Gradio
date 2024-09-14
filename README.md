@@ -111,7 +111,7 @@ text = ' '.join([summ['summary_text'] for summ in res])
 ![Screenshot 2024-09-14 091448](https://github.com/user-attachments/assets/b9c7dae1-6879-4526-aa1d-4904709db943)
 
 ## Hugging Face project page
-URL
+[Hugging Face project space](https://huggingface.co/spaces/Kawthar12h/Text_Summarization)
 ## Explaination Video
 
 Vidio
