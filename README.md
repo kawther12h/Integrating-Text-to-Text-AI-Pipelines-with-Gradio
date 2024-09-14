@@ -13,9 +13,11 @@ The purpose of this project is to provide a straightforward and user-friendly we
 
 ## Hugging Face text-to-text pipeline
 Here we use ("facebook/bart-large-cnn") as  summarization Model
+[Text_Summarization_Pipeline](https://github.com/kawther12h/Integrating-Text-to-Text-AI-Pipelines-with-Gradio/blob/main/HuggingFace_pipeline_codeipynb.ipynb)
 
 ## Gradio Interface
 Here the Gradio components That used in the project interface
+[Gradio_Interface](https://github.com/kawther12h/Integrating-Text-to-Text-AI-Pipelines-with-Gradio/blob/main/Gradio_Code.ipynb)
 
 ## Full Building Project
 Here the full Hugging Face text-to-text
