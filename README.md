@@ -115,5 +115,5 @@ text = ' '.join([summ['summary_text'] for summ in res])
 ## Hugging Face project page
 [Hugging Face project space](https://huggingface.co/spaces/Kawthar12h/Text_Summarization)
 ## Explaination Video
+[Project Explaination Video](https://drive.google.com/file/d/1Omk0GfRFvgMAVfY3VBxaUJUYYwGEBWrt/view?usp=drive_link)
 
-Vidio
