@@ -22,7 +22,7 @@ Here the Gradio components That used in the project interface
 ## Full Building Project
 Here the full Hugging Face text-to-text
 pipeline integrated with Gradio for summarizing webpage artical.
-
+[summarizing webpage artical](https://github.com/kawther12h/Integrating-Text-to-Text-AI-Pipelines-with-Gradio/blob/main/Artical_Text_Summarization_Assi_1.ipynb)
 ## How the Hugging Face text-to-text pipeline works.
 
 ### Hugging Face text-to-text pipeline is used to perform text summarization. Here's a breakdown of how it works:
